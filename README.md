@@ -1,3 +1,2 @@
-# Hi! 
-### My name is Rafael, and I am studying computer science at Northwestern University
+### i'm raffi, and i'm studying cs at northwestern
 
